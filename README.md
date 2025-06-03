@@ -19,7 +19,7 @@ A Streamlit web application that uses LangChain and Groq AI to automatically sum
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/youtube-website-summarizer.git
+git clone https://github.com/anmolpansara/youtube-website-summarizer.git
 cd youtube-website-summarizer
 ```
 
